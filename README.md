@@ -16,7 +16,7 @@ Sistema de Pontuação: Cada vez que o jogador acerta o Ralph, a pontuação é 
 Design responsivo: O jogo foi pensado para se adaptar a diferentes tamanhos de tela, garantindo uma experiência imersiva tanto em desktop quanto em dispositivos móveis.
 
 ## 🔗 Demo do Jogo
-
+[Teste o Jogo aqui!](https://anahmartins.github.io/jogo-detona-ralph-pointer-clicker/) 🎮
 
 ## 📸 Screenshots
 ![Imagem do Jogo](./imagemjogo.jpeg)
